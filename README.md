@@ -2,8 +2,6 @@
 
 Projeto criado com as bibliotecas React JS e Material UI.
 
-## Passo-a-passo para execução
-
 ## Nesse template eu fiz as seguintes alterções:
 
 - Alterei a formatação da data exibida na lista de tarefas para o formato 'dd/MM/yyyy'
